@@ -3,7 +3,6 @@
   "version": "2.2.4",
   "description": "The common module for @geckos.io/server and @geckos.io/client.",
   "main": "lib",
-  "type": "module",
   "author": "Yannick Deubel (https://github.com/yandeu)",
   "license": "BSD-3-Clause",
   "keywords": [

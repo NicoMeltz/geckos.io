@@ -4,7 +4,14 @@
 <img src="readme/logo-256.png" alt="logo" width="128">
 </a>
 
-# geckos.io
+
+
+# Is a clone of  [![geckos.io](https://github.com/geckosio/geckos.io)
+# all credits to Yannick Deubel. 
+
+## compiled to commonjs, because otherwise many other packages dependencies are not compatible
+
+## geckos.io
 
 ### Geckos&#46;io offers real-time client/server communication over UDP using WebRTC and Node.js
 

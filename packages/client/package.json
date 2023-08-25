@@ -4,7 +4,6 @@
   "description": "Real-time client/server communication over UDP using WebRTC and Node.js",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "type": "module",
   "author": "Yannick Deubel (https://github.com/yandeu)",
   "license": "BSD-3-Clause",
   "keywords": [

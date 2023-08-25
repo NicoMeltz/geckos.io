@@ -3,7 +3,6 @@
   "description": "Real-time client/server communication over UDP using WebRTC and Node.js",
   "version": "2.2.4",
   "main": "dist",
-  "type": "module",
   "private": true,
   "scripts": {
     "dev": "npm-run-all --parallel watch:* dev:*",
